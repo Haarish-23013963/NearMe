@@ -126,7 +126,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-![Screenshot 2024-10-22 152433](https://github.com/user-attachments/assets/3be2c5ce-4644-49db-8ed1-9dee12a4845a)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/d8ebf223-adca-4258-84de-c977d8bcb397)
 
 ![image-8](https://github.com/user-attachments/assets/5c4a62ba-2793-41b4-8fd9-8814b7358b34)
 ![Screenshot 2024-10-22 153117](https://github.com/user-attachments/assets/efead3ce-bf53-45bd-abf5-c87b006ffe06)
